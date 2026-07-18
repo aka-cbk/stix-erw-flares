@@ -96,4 +96,4 @@ If you use this dataset in your work, please cite the references above and ackno
 
 ## Contact
 
-For questions or suggestions, please open an issue in this repository.
+Arun Kumar Awasthi - arun@physics.du.ac.in/arun.awasthi.87@gmail.com.
