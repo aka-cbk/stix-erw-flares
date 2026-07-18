@@ -41,9 +41,8 @@ Flares with high `q_f` values are classified as ERW flares.
 
 ## Data Columns
 
-Each row in the catalog contains:
+Each row in the catalog contains (In descending order of q_f):
 
-- **No.** — Sequence number  
 - **SXR Peak time (UT)** — Peak time in 4–10 keV  
 - **HXR Peak Time (UT)** — Peak time in 15–25 keV  
 - **SXR Peak Counts** — Peak counts in SXR band  
