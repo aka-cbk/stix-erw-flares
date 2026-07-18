@@ -6,7 +6,7 @@ This repository provides a catalog of solar flares identified as **Energetically
 
 ## Description
 
-ERW flares are events that show **relatively weak soft X-ray (SXR) emission but strong hard X-ray (HXR) emission**. These events are quantified using the parameter `q_f`, defined as the ratio of HXR fluence to SXR peak flux. This definition is motivated by the integral form of the Neupert effect.
+ERW flares are events that show **relatively weak soft X-ray (SXR) emission but strong hard X-ray (HXR) emission**. These events are quantified using the parameter `$q_f$`, defined as the ratio of HXR fluence to SXR peak flux. This definition is motivated by the integral form of the Neupert effect.
 
 ---
 
