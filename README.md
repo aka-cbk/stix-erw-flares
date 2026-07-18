@@ -83,7 +83,8 @@ Planned improvements include:
 
 - Extended time coverage  
 - Refined ERW selection criteria  
-- Additional flare parameters  
+- Additional flare parameters
+- Use SPECTROGRAM data for better energy and temporal resolution  
 
 ---
 
