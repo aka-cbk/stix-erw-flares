@@ -1,4 +1,4 @@
-# STIX ERW Flare Catalog
+# Energetically-Rich Weak (ERW) Flare Catalog
 
 This repository provides a catalog of solar flares identified as **Energetically-Rich Weak (ERW) flares**, based on observations from the Spectrometer/Telescope for Imaging X-rays (STIX) onboard the Solar Orbiter mission.
 
